@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsBanjo/static/css/main.abd64e84.css",
+    "main.js": "/NewsBanjo/static/js/main.edcf75b7.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsBanjo/static/js/787.4c026eef.chunk.js",
+    "index.html": "/NewsBanjo/index.html",
+    "main.abd64e84.css.map": "/NewsBanjo/static/css/main.abd64e84.css.map",
+    "main.edcf75b7.js.map": "/NewsBanjo/static/js/main.edcf75b7.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsBanjo/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.edcf75b7.js"
+  ]
+}
